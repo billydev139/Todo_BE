@@ -14,7 +14,6 @@ A Todo application built with Node.js featuring user authentication and a task m
 - Node.js
 - Express
 - MongoDB (or other database if applicable)
-- [Optional: Any additional libraries or frameworks]
 
 ## Getting Started
 
